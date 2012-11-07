@@ -6,3 +6,13 @@ INSTALLATION
   2) Create symbolic links:
     ln -s ~/.vim/vimrc ~/.vimrc
 
+  3) Install the submodules
+    git submodule init
+    git submodule update
+
+ADD A PLUGIN
+  1) From ~/.vim
+    git submodule add %{path} bundle/%{name}
+
+UPDATE PLUGINS
+  git submodule update
