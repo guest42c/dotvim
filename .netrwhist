@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/Elvex/workspace/mconf-web/app/assets/javascripts/app/private_messages'
-let g:netrw_dirhist_2='/home/Elvex/workspace/mconf-web/config'
